@@ -4,4 +4,8 @@
     margin: 0;
     padding: 0;
     font-family: roboto;
+    --dark-bg-color: #1F2937;
+    --main-text: #F9FAF8;
+    --secondary-text: #E5E7EB;
+    --button-color: #3883F6;
 }
