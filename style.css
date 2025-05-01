@@ -36,8 +36,17 @@
 .hero {
     background: var(--dark-bg-color);
     color: var(--main-text);
+    /* display: flex; */
+
 }
 .hero p {
     color: var(--secondary-text);
     font-weight: 50;
+}
+.hero-container {
+    display: flex;
+    padding: 150px 230px;
+}
+.left-col {
+    flex-basis: 45%;
 }
