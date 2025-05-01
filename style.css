@@ -22,3 +22,6 @@
     margin: 0 auto;
     align-items: center;
 }
+.navbar h2 {
+    color: var(--main-text);
+}
