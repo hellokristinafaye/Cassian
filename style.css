@@ -14,3 +14,11 @@
     text-decoration: none;
     font-weight: 30;
 }
+.navbar {
+    background: var(--dark-bg-color);
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
