@@ -25,3 +25,10 @@
 .navbar h2 {
     color: var(--main-text);
 }
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link-text {
+    margin: 20px;
+}
