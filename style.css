@@ -9,3 +9,8 @@
     --secondary-text: #E5E7EB;
     --button-color: #3883F6;
 }
+.nav-link-text {
+    color: var(--secondary-text);
+    text-decoration: none;
+    font-weight: 30;
+}
