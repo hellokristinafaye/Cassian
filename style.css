@@ -19,7 +19,7 @@
     /* width: 80%; */
     display: flex;
     justify-content: space-between;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     padding: 15px 200px;
     align-items: center;
 }
@@ -35,4 +35,9 @@
 }
 .hero {
     background: var(--dark-bg-color);
+    color: var(--main-text);
+}
+.hero p {
+    color: var(--secondary-text);
+    font-weight: 50;
 }
