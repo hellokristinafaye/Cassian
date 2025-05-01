@@ -50,3 +50,8 @@
 .left-col {
     flex-basis: 45%;
 }
+.img-placeholder {
+    width: 500px;
+    height: 210px;
+    background: grey;
+}
