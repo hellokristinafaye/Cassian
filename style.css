@@ -32,3 +32,6 @@
 .nav-link-text {
     margin: 20px;
 }
+.hero {
+    background: var(--dark-bg-color);
+}
