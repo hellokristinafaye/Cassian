@@ -16,10 +16,11 @@
 }
 .navbar {
     background: var(--dark-bg-color);
-    width: 80%;
+    /* width: 80%; */
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
+    padding: 15px 200px;
     align-items: center;
 }
 .navbar h2 {
